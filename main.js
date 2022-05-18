@@ -2,7 +2,7 @@ const linksSocialMedia = {
   facebook: 'NOSC4P3',
   youtube: 'NOSC4P3',
   instagram: 'henriqueferreira.svg',
-  twitter: 'NOSC4P3',
+  twitter: 'nosc4p3',
   github: 'NOSC4P3'
 }
 function changeSocialMediaLinks() {
